@@ -99,7 +99,7 @@ body {
 
 .hero {
   position: relative;
-  height: 73dvh;
+  height: 100dvh;
   display: flex;
   align-items: center;
   justify-content: center;
